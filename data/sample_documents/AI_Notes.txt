@@ -1,0 +1,13 @@
+Chapter 1: Introduction to Artificial Intelligence
+
+Artificial intelligence (AI) is the field of computer science that builds systems able to perform tasks that normally require human intelligence. These tasks include learning from experience, understanding language, recognising images and making decisions. AI is transforming education, healthcare, finance and transportation.
+
+Machine learning is a branch of AI in which algorithms learn patterns from data instead of following hand-written rules. Supervised learning uses labelled examples, unsupervised learning finds hidden structure in unlabeled data, and reinforcement learning learns from rewards and penalties.
+
+Chapter 2: Applications of Machine Learning
+
+Machine learning is used for predictive analytics, image recognition, recommendation systems and fraud detection. Hospitals use it to detect diseases from medical scans. Online shops use recommendation systems to suggest products. Banks use anomaly detection to flag suspicious transactions.
+
+Chapter 3: Ethics and Limitations
+
+AI systems can inherit bias from their training data and may produce unfair results. Transparency, privacy protection and human oversight are essential. The author concludes that AI should augment human decision making rather than replace it, and that responsible governance is the key to trustworthy AI.
